@@ -1,0 +1,3 @@
+transformers
+google-cloud-aiplatform
+ipywidgets
